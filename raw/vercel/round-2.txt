@@ -1,0 +1,1423 @@
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 17, 2020 9:28:31 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+52 ms
+
+Connect
+19 ms
+
+TLS
+116 ms
+
+TTFB
+587 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,275	16	116	36	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	724	29	68	625	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	161	3	20	725	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	29	15	135	843	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	15	83	171	356	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	25	17	207	574	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	20	0.84	70	805	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	106	0.75	70	773	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	145	25	83	606	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	97	35	57	552	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	52	38	91	738	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	26	7	186	587	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	39	24	233	584	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	33	12	123	591	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	34	19	117	652	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	233	21	76	573	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	855	1.00	8	261	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	160	38	249	571	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	51	38	169	753	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,628	11	309	46	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	11	3	187	334	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	52	20	49	442	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	54	27	59	651	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 17, 2020 9:29:10 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+14 ms
+
+Connect
+18 ms
+
+TLS
+114 ms
+
+TTFB
+31 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,499	16	114	31	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	0.45	27	69	35	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	1	2	20	8	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	14	15	128	26	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.59	87	180	89	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	123	17	200	18	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	1	0.66	70	26	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	1	0.81	91	25	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	1	25	82	39	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	30	21	42	7	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	43	35	84	51	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	30	5	184	10	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	41	21	222	31	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	27	12	121	20	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	6	18	128	25	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	2	21	76	36	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	2	0.75	7	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	5	60	252	51	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	17	38	173	45	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	1,722	13	296	89	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	36	14	190	13	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	1	29	79	40	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	158	27	60	31	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 17, 2020 9:29:30 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+17 ms
+
+Connect
+15 ms
+
+TLS
+115 ms
+
+TTFB
+27 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,031	16	115	32	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	0.80	29	65	36	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	2	2	22	10	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	14	15	124	27	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.46	83	179	87	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	124	17	199	19	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	19	0.93	70	24	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	19	1	70	24	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	1	25	82	40	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	17	12	37	17	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	52	32	80	49	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	19	5	181	16	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	28	22	223	32	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	29	12	124	21	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	8	15	134	37	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	2	21	75	36	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	2	0.71	7	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	6	38	314	42	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	17	37	187	68	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,878	11	301	42	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	11	3	197	15	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	37	13	46	23	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	54	25	56	27	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 17, 2020 9:29:56 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+31 ms
+
+Connect
+15 ms
+
+TLS
+119 ms
+
+TTFB
+25 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,023	16	130	31	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	41	32	65	35	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	11	2	20	10	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	31	14	133	25	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.44	88	180	93	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	128	17	201	18	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.84	0.57	69	23	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.42	0.74	70	23	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	22	25	83	48	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	32	11	32	13	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	44	31	79	42	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	19	5	188	18	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	33	21	229	29	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	27	12	119	22	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	31	15	123	21	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	28	21	75	37	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	4	0.69	11	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	102	38	798	73	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	52	37	180	44	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,730	12	267	42	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	8	3	198	16	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	1	13	46	24	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	79	26	58	28	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 17, 2020 9:30:18 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+12 ms
+
+Connect
+15 ms
+
+TLS
+121 ms
+
+TTFB
+26 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,199	15	114	31	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	2	28	74	39	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	2	2	21	8	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	14	15	123	25	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.44	87	182	98	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	24	17	200	19	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.63	0.60	70	22	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.74	0.60	70	26	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	2	25	82	39	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	15	14	25	7	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	47	31	160	38	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	12	5	179	17	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	27	23	224	30	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	20	12	121	20	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	10	19	127	21	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	2	21	76	37	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	1	0.97	15	12	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	6	38	257	45	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	17	37	206	45	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	16	13	261	49	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	17	3	184	11	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	2	13	46	23	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	181	26	61	30	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 19, 2020 11:34:22 AM 22 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+42 ms
+
+Connect
+15 ms
+
+TLS
+100 ms
+
+TTFB
+698 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,334	16	114	31	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	725	28	60	648	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	50	2	20	833	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	29	14	128	915	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	37	83	171	323	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	38	0.69	70	737	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	38	0.70	73	766	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	145	25	82	666	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	31	12	48	549	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	52	32	86	1,654	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	24	7	192	661	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	31	24	231	614	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	27	13	123	701	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	39	19	132	696	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	56	21	75	738	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	164	0.95	7	938	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	158	36	247	1,609	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	45	36	168	899	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,295	12	432	67	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	9	3	179	337	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	37	13	47	372	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	78	26	58	908	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 19, 2020 11:34:47 AM 22 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+8 ms
+
+Connect
+15 ms
+
+TLS
+103 ms
+
+TTFB
+31 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,174	16	115	32	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	2	29	70	35	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	1	2	23	9	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	13	14	135	27	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.38	88	206	93	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.95	0.71	70	24	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.96	0.65	91	27	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	1	25	83	64	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	16	10	38	11	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	46	30	75	76	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	15	7	189	32	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	24	23	225	30	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	31	14	120	26	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	6	17	132	33	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	2	21	81	35	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	2	0.73	6	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	5	37	248	47	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	17	37	189	43	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	11	11	287	50	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	10	3	186	13	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	1	13	47	24	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	30	26	59	30	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 19, 2020 4:42:07 PM 22 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+56 ms
+
+Connect
+15 ms
+
+TLS
+103 ms
+
+TTFB
+734 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,484	16	120	32	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	1,430	28	77	818	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	60	2	20	749	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	30	15	132	839	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	14	82	171	419	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	19	0.78	71	733	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	38	0.72	70	735	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	60	25	86	795	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	29	11	33	653	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	52	32	83	977	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	21	5	183	692	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	33	25	230	706	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	109	12	120	1,089	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	34	16	121	980	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	164	21	76	604	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	360	0.78	7	905	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	158	37	250	826	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	337	37	172	632	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	1,176	12	404	46	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	42	4	239	350	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	47	13	48	402	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	80	25	56	925	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 19, 2020 4:42:47 PM 22 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+8 ms
+
+Connect
+15 ms
+
+TLS
+100 ms
+
+TTFB
+28 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,023	16	113	31	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	1	28	71	34	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	2	2	22	9	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	15	14	129	27	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.37	87	183	94	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.42	0.73	71	26	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.25	0.54	88	23	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	1	25	83	62	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	18	9	36	14	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	53	31	80	40	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	22	4	184	11	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	32	22	223	30	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	27	12	120	22	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	7	17	130	25	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	2	21	74	40	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	2	0.71	9	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	5	39	256	44	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	16	38	186	45	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	14	12	288	43	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	9	3	195	12	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	2	13	49	26	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	68	25	55	29	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 19, 2020 4:43:12 PM 22 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+34 ms
+
+Connect
+17 ms
+
+TLS
+99 ms
+
+TTFB
+35 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,214	16	114	53	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	397	28	65	35	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	93	2	22	9	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	28	14	129	25	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	8	83	172	89	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	18	0.69	69	55	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	30	0.64	74	38	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	21	25	83	39	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	27	13	42	15	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	48	33	84	42	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	17	5	184	10	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	27	22	214	33	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	26	14	119	24	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	37	18	128	27	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	29	21	78	36	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	5	0.98	6	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	97	39	255	43	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	46	37	159	44	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,531	12	297	43	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	47	3	185	13	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	37	29	80	42	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	66	25	55	27	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 19, 2020 4:43:36 PM 22 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+11 ms
+
+Connect
+16 ms
+
+TLS
+117 ms
+
+TTFB
+32 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,025	16	114	32	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	1	28	71	34	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	2	2	22	9	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	14	14	119	25	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.43	87	182	91	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.61	0.60	71	25	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.45	0.67	74	24	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	1	25	122	239	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	15	11	41	13	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	53	33	83	40	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	23	7	193	24	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	27	22	266	29	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	26	13	126	21	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	6	16	128	33	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	2	21	77	36	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	2	1	7	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	11	37	246	48	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	16	37	185	45	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	551	12	264	47	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	12	4	276	83	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	2	29	79	44	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	30	27	60	29	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 19, 2020 4:43:56 PM 22 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+9 ms
+
+Connect
+16 ms
+
+TLS
+99 ms
+
+TTFB
+30 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,017	16	114	31	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	2	29	68	31	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	2	2	23	21	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	14	14	133	27	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.40	82	170	85	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.47	0.58	73	23	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.59	0.63	84	60	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	1	25	82	39	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	19	14	43	12	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	45	31	78	38	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	12	5	223	21	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	28	24	232	31	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	25	16	121	27	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	7	18	157	25	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	2	21	76	37	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	1	0.97	6	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	6	38	254	43	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	17	37	168	45	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	1,791	11	307	41	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	47	4	190	21	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	2	13	46	25	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	29	27	61	29	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 21, 2020 11:23:32 PM 22 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+54 ms
+
+Connect
+18 ms
+
+TLS
+98 ms
+
+TTFB
+631 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,180	16	114	34	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	381	28	72	601	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	60	3	20	707	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	29	14	131	856	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	47	88	182	457	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	43	0.70	69	698	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	30	0.69	70	714	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	167	25	81	583	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	30	11	28	551	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	47	32	81	809	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	34	5	183	685	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	67	22	214	624	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	34	16	118	691	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	48	20	128	718	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	131	21	75	615	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	164	0.72	10	694	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	5,050	39	253	53	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	46	39	172	638	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	373	13	305	47	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	13	4	220	451	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	62	101	46	390	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	89	25	56	880	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 21, 2020 11:24:02 PM 22 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+11 ms
+
+Connect
+15 ms
+
+TLS
+116 ms
+
+TTFB
+29 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,181	16	113	32	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	2	29	72	31	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	1	2	20	10	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	14	15	134	37	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.53	83	172	88	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	2	0.62	73	26	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.92	0.63	91	24	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	2	25	85	39	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	20	9	31	9	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	40	34	83	40	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	28	7	190	14	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	38	24	234	32	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	30	12	122	21	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	9	16	119	27	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	2	21	80	35	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	1	0.67	7	2	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	101	36	248	43	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	17	38	190	44	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,447	12	312	43	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	9	4	184	14	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	2	13	139	27	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	81	26	57	28	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 21, 2020 11:24:29 PM 22 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+8 ms
+
+Connect
+15 ms
+
+TLS
+99 ms
+
+TTFB
+29 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,039	15	113	31	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	2	28	75	34	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	2	2	20	8	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	14	14	132	25	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.42	87	231	103	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.75	0.71	68	25	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.40	0.58	75	22	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	2	25	83	39	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	33	10	37	9	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	114	33	85	41	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	19	5	178	16	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	25	21	227	29	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	33	14	137	19	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	8	26	126	25	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	2	21	74	36	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	1	0.65	6	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	6	39	246	50	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	17	37	173	46	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	7	12	293	43	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	12	4	188	12	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	2	14	48	103	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	78	25	57	29	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 21, 2020 11:24:49 PM 22 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+30 ms
+
+Connect
+15 ms
+
+TLS
+98 ms
+
+TTFB
+28 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,178	16	113	33	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	47	32	70	34	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	13	2	22	10	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	29	14	128	25	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.39	82	171	87	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	30	0.68	68	23	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	29	0.61	69	23	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	22	25	82	40	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	32	11	31	10	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	50	34	83	40	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	27	5	189	15	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	37	24	231	32	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	33	13	123	20	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	29	15	130	22	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	29	21	76	37	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	4	0.97	7	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	117	39	261	46	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	49	37	167	43	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	20	11	265	45	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	16	3	188	13	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	37	27	60	27	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	81	26	57	28	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 21, 2020 11:25:13 PM 22 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+11 ms
+
+Connect
+17 ms
+
+TLS
+101 ms
+
+TTFB
+28 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,177	16	124	31	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	1	29	66	39	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	1	2	20	8	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	14	14	135	25	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.41	82	170	85	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	1	1	69	23	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	1	1	70	23	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	2	25	82	40	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	21	12	42	12	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	44	33	79	40	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	13	7	192	13	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	24	22	227	28	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	25	12	120	20	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	7	17	134	27	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	3	21	75	37	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	2	0.93	8	5	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	10	39	254	45	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	17	38	190	44	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,185	12	285	97	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	47	4	187	14	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	2	50	82	41	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	93	27	63	29	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 30, 2020 3:44:15 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+40 ms
+
+Connect
+15 ms
+
+TLS
+118 ms
+
+TTFB
+691 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,545	12	172	28	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	504	28	75	823	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	21	2	25	789	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	31	15	135	878	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	130	83	170	270	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	27	17	202	677	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	21	0.93	87	737	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	37	0.82	93	758	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	166	15	66	600	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	29	10	38	556	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	216	32	79	960	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	44	13	188	620	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	40	22	213	589	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	34	14	118	691	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	28	15	134	702	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	29	17	69	816	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	672	0.67	7	674	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	167	38	248	848	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	199	37	168	988	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	678	18	506	47	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	9	3	179	500	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	38	13	48	476	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	82	26	58	942	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 30, 2020 3:44:45 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+9 ms
+
+Connect
+15 ms
+
+TLS
+124 ms
+
+TTFB
+31 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,446	12	163	28	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	1	29	76	34	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	2	2	33	29	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	16	15	139	79	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.43	87	181	92	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	35	16	202	20	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.89	0.67	71	27	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.66	0.67	160	37	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	2	15	74	31	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	18	13	41	16	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	117	32	80	38	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	30	10	192	16	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	27	22	212	33	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	24	12	117	22	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	7	19	124	31	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	3	17	73	32	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	2	0.91	6	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	9	38	254	46	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	16	37	167	46	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	4,569	13	308	43	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	9	4	196	15	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	2	13	46	24	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	116	26	57	29	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 30, 2020 3:45:15 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+21 ms
+
+Connect
+15 ms
+
+TLS
+115 ms
+
+TTFB
+28 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,539	12	183	28	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	21	30	70	32	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	38	2	22	11	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	16	15	119	27	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.41	87	182	94	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	24	17	198	17	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	19	0.62	71	23	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	19	0.71	71	30	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	1	15	80	31	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	27	16	38	10	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	114	32	82	38	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	18	8	190	20	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	39	20	221	29	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	32	12	115	21	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	39	22	127	22	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	2	17	70	35	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	1	0.92	7	5	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	9	37	249	47	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	16	37	171	47	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,092	12	262	63	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	10	4	190	14	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	37	13	48	28	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	82	27	62	29	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 30, 2020 3:45:45 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+25 ms
+
+Connect
+15 ms
+
+TLS
+124 ms
+
+TTFB
+27 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,041	12	164	28	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	214	28	66	35	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	2	2	23	8	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	34	15	194	26	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.33	88	225	113	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	26	16	200	19	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.71	0.70	71	23	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.51	0.71	86	23	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	22	15	74	44	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	16	20	39	14	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	204	33	84	42	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	20	6	198	16	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	28	23	229	32	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	25	12	125	20	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	7	20	124	28	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	29	18	69	33	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	4	0.76	6	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	99	39	258	44	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	324	38	235	92	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,454	11	266	42	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	11	4	185	15	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	1	13	72	25	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	32	25	57	27	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 30, 2020 3:46:09 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+14 ms
+
+Connect
+16 ms
+
+TLS
+123 ms
+
+TTFB
+29 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,185	12	259	29	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	2	28	69	34	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	1	2	27	8	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	14	14	136	24	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.44	83	172	86	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	32	17	200	18	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	3	0.75	70	23	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.74	1	72	57	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	1	15	66	31	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	19	16	39	16	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	47	32	78	39	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	25	7	192	94	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	33	23	254	39	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	22	13	123	23	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	7	21	126	26	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	2	17	69	33	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	1	0.98	6	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	12	38	249	48	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	17	46	180	44	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,874	18	276	51	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	41	4	184	14	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	2	13	50	23	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	31	25	56	27	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 30, 2020 3:46:31 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+19 ms
+
+Connect
+15 ms
+
+TLS
+119 ms
+
+TTFB
+29 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,193	12	163	29	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	0.42	29	66	34	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	69	2	64	89	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	16	14	133	25	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.42	83	171	151	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	26	17	203	18	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	19	5	67	23	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	18	5	75	23	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	1	15	67	33	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	36	14	48	14	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	45	33	82	42	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	13	7	192	13	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	27	20	227	29	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	28	15	119	21	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	25	16	127	21	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	2	16	86	122	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	4	0.69	6	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	10	37	250	42	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	17	36	184	43	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,423	12	261	41	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	11	4	188	13	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	37	13	51	37	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	31	26	57	27	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 30, 2020 3:46:56 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+29 ms
+
+Connect
+15 ms
+
+TLS
+119 ms
+
+TTFB
+27 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,018	12	175	29	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	45	28	61	33	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	2	2	23	8	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	31	15	135	27	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	0.47	83	170	85	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	35	18	387	18	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.54	0.61	70	23	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	0.69	0.72	69	24	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	22	16	77	33	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	16	12	34	19	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	44	32	80	39	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	13	7	191	14	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	46	24	224	31	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	29	12	119	26	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	7	20	126	26	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	29	17	108	91	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	4	0.97	6	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	94	37	248	48	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	50	37	169	46	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,849	11	278	44	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	11	4	214	31	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	2	13	47	24	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	39	25	56	27	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
+
+
+ Pulse
+ TurbobytesPulse
+StartTest resultsHost an agent !FAQTest locations
+Run test again
+
+https://static-host-test.now.sh/ via static-host-test.now.sh
+ Jun 30, 2020 3:47:21 PM 23 agents  show request headers
+Results (speed metrics show 50th percentile)
+Error Rate
+0.00%
+DNS
+28 ms
+
+Connect
+14 ms
+
+TLS
+122 ms
+
+TTFB
+28 ms
+Results per agent
+Agent	Location	Network	Status	Timing (ms)	Endpoint IP	Response headers
+DNS 	Connect 	TLS 	TTFB 		Show all
+245-ATVIRTUAL.NET	 AT - Gross	A1 … (AS8447)	200	10,053	12	163	30	76.76.21.21:443	show headers
+184-josephb	 AU - Adelaide	Wideband Netw … (AS4764)	200	211	28	64	34	76.76.21.21:443	show headers
+173-EDM.uhasselt.be	 BE - Hasselt	BELNET … (AS2611)	200	20	2	20	8	76.76.21.21:443	show headers
+227-PAD.mamsnet.dk	 DK - Aalborg	Bredbaand Nor … (AS42355)	200	31	14	132	26	76.76.21.21:443	show headers
+247-atanar-cloud	 FR - Roubaix	OVH SAS … (AS16276)	200	15	87	181	112	76.76.21.21:443	show headers
+176-Dialogue	 GB - Barnstaple	TalkTalk (Tis … (AS9105)	200	24	17	196	19	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	19	0.61	70	24	76.76.21.21:443	show headers
+36-gitanes	 HU - Budapest	Rackforest … (AS62214)	200	19	0.59	69	23	76.76.21.21:443	show headers
+77-PlexOnline	 HU - Budapest	Invitel … (AS12301)	200	42	15	68	31	76.76.21.21:443	show headers
+240-zbox	 IE - Dublin	Liberty Globa … (AS6830)	200	28	11	33	14	76.76.21.21:443	show headers
+248-pul3.millionserenity.net	 MY - Miri	TM Net, Inter … (AS4788)	200	41	36	90	44	76.76.21.21:443	show headers
+16-TurboBytes	 NL - Vleuten	KPN … (AS1136)	200	23	5	177	16	76.76.21.21:443	show headers
+161-TurboBytes	 NL - Utrecht	Tele2 … (AS13127)	200	27	24	232	30	76.76.21.21:443	show headers
+213-Zeelandnet	 NL - Middelburg	ZeelandNet … (AS15542)	200	28	12	122	22	76.76.21.21:443	show headers
+226-forfun.net	 NL - Arnhem	Liberty Globa … (AS6830)	200	30	17	128	27	76.76.21.21:443	show headers
+241-serb1	 RS - Belgrade	Serbia BroadB … (AS31042)	200	28	17	69	34	76.76.21.21:443	show headers
+200-IndoVirtue-SG1	 SG - Singapore	SG.GS … (AS24482)	200	2	1	9	3	76.76.21.21:443	show headers
+10-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	94	37	247	42	76.76.21.21:443	show headers
+220-TurboBytes	 TH - Bangkok	AIS Fibre … (AS133481)	200	47	36	165	42	76.76.21.21:443	show headers
+138-Hansen Labs	 US - Saint Petersburg	Frontier … (AS5650)	200	2,739	13	266	46	76.76.21.21:443	show headers
+146-Bitly-NY	 US - New York	Pilot Fiber … (AS46450)	200	8	4	188	15	76.76.21.21:443	show headers
+234-GF-KCK	 US - Kansas City	Google Fiber … (AS16591)	200	62	13	49	94	76.76.21.21:443	show headers
+97-123HOST.VN	 VN - Ho Chi Minh City	VNPT … (AS7643)	200	34	26	59	28	76.76.21.21:443	show headers
+Copyright © 2015-2018 TurboBytes. Registered in The Netherlands. All rights reserved. Terms & Conditions Privacy policy
+Need an ultra reliable content delivery service? Multi-CDN, by TurboBytes.
